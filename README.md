@@ -5,8 +5,6 @@
 - 📫 How to reach me ... is there a way to reach me on here if so, do it if there is anything you would like to tell me, I want to make friends? I'm too new for this. Maybe reach me on IG... (Which I have conveniently left out haha)
 
 - Proficient: English， Chinese Mandarin 简体中文， Spanish.
-- Still learning: Norwegian, French, and Korean.
-- Universe 🌟
 <!---
 AnSiChen/AnSiChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
