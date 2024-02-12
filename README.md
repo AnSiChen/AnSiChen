@@ -13,7 +13,7 @@ Stay tuned for updates, and thank you for your patience and support.
 - 👀 I’m interested in ... Learning, music, languages and computers, and I have a love for machine learning, AI, robotics, physics, astrophsyics, cosmology and anything space related, and I would like to pursue a career in such fields. 
 - 🌱 I’m currently learning ... IT: SQL, C#, REACT, Linux, docker-compose; and getting experience in the technologies and languages I already use: python, django, html, css, javascript, docker.
 - 💞️ I’m looking to collaborate on ... Different projects that I am interested in or that can enrich my learning journey. 
-- 📫 How to reach me ... Github, or at contact@astrotheorem.com 
+- 📫 How to reach me ... Github, or at contact@anthonyem.com or contact@astrotheorem.com
 
 - Proficient: English, Mandarin 简体中文， Spanish. 
 <!---
