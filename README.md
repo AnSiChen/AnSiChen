@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnSiChen - Anthony | https://anthonyem.com | https://astrotheorem.com | https://annyarivas.com
+- 👋 Hi, I’m @AnSiChen - Anthony | https://anthonyem.com | https://astrotheorem.com | External Client's Project: https://annyarivas.com
 - ⚠️Important Notice:
 
 Thank you for visiting my GitHub profile.
