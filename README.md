@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnSiChen - Anthony | https://anthonyem.com | https://astrotheorem.com | External Client and Professional Partner's Project: https://annyarivas.com
+- 👋 Hi, I’m @AnSiChen - Anthony | https://anthonyem.com | https://astrotheorem.com | https://astromao.com External Client and Professional Partner's Project: https://annyarivas.com
 - ⚠️Important Notice:
 
 Thank you for visiting my GitHub profile.
@@ -13,7 +13,7 @@ Stay tuned for updates, and thank you for your patience and support.
 - 👀 I’m interested in ... Learning, music, languages, and computers, and I have a love for machine learning, AI, robotics, physics, astrophysics, cosmology, and anything space-related, and I would like to pursue a career in such fields. 
 - 🌱 I’m currently learning ... IT: SQL, C#, REACT, Linux, docker-compose; and getting experience in the technologies and languages I already use: python, Django, html, css, javascript, docker.
 - 💞️ I’m looking to collaborate on ... Different projects that I am interested in or that can enrich my learning journey. 
-- 📫 How to reach me ... Github, or at github[at]anthonyem[dot]com
+- 📫 How to reach me ... Github, or my websites.
 
 - Proficient: English, Mandarin 简体中文， Spanish. 
 <!---
